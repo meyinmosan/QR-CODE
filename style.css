@@ -1,0 +1,25 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+.white-background{
+  background-color: hsl(0, 0%, 100%);
+  padding-top: 2ch;
+  border-radius: 15px;
+  min-width: 380px;
+  max-width: 380px;
+}
+.Qr-image{
+  border-radius: 15px;
+}
+.write-up{
+  padding-left: 3ch;
+  padding-right: 3ch;
+  padding-top: 2ch;
+  font-weight: 500;
+}
+.all-div{
+  padding-top: 10ch;
+}
+footer{
+  padding-top: 14ch;
+}
